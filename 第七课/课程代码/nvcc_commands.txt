@@ -1,0 +1,2 @@
+nvcc -o transpose transpose.cu
+nvcc -o deviceQuery_simplified deviceQuery_simplified.cpp

@@ -1,0 +1,1 @@
+nvcc -o histo histo.cu
